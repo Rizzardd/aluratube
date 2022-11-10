@@ -1,0 +1,134 @@
+{
+    "name": "Rizzardd",
+    "job": "Game Dev Student",
+    "github": "Rizzardd",
+    "banner": "oneshotin.png",
+    "playlists": {
+        "Games": [
+            {
+                "title": "A DIREÇÃO DE ARTE DESSE JOGO É INCRÍVEL!? - HOLLOW KNIGHT GAMEPLAY!",
+                "url": "https://youtu.be/8gyg9ffRKg8",
+                "thumb": "https://img.youtube.com/vi/8gyg9ffRKg8/hqdefault.jpg"
+            },
+            {
+                "title": "Spiritfarer - Full Game Walkthrough (Gameplay)",
+                "url": "https://youtu.be/SbEnPscIcEg",
+                "thumb": "https://img.youtube.com/vi/SbEnPscIcEg/hqdefault.jpg"
+            },
+            {
+                "title": "Don't Starve - Primeiro Gameplay",
+                "url": "https://youtu.be/JqO7uXx2Njg",
+                "thumb": "https://img.youtube.com/vi/JqO7uXx2Njg/hqdefault.jpg"
+            },
+            {
+                "title": "Primeiros Passos da Colônia | Oxygen Not Included Tutorial #01 - Gameplay PT-BR",
+                "url": "https://youtu.be/5ovBz7-fAzM",
+                "thumb": "https://img.youtube.com/vi/5ovBz7-fAzM/hqdefault.jpg"
+            },
+            {
+                "title": "APRENDA A JOGAR Stardew Valley! Nova série #01",
+                "url": "https://youtu.be/yOLJhZrCLpw",
+                "thumb": "https://img.youtube.com/vi/yOLJhZrCLpw/hqdefault.jpg"
+            },
+            {
+                "title": "O jogo que destrói a quarta parede",
+                "url": "https://youtu.be/0AkB9dUosG4",
+                "thumb": "https://img.youtube.com/vi/0AkB9dUosG4/hqdefault.jpg"
+            },
+            {
+                "title": "Ori and the Will of the Wisps - Parte 1: Ori e Kun [ Xbox One X - Playthrough ]",
+                "url": "https://youtu.be/FyH_gPH9m0A",
+                "thumb": "https://img.youtube.com/vi/FyH_gPH9m0A/hqdefault.jpg"
+            },
+            {
+                "title": "alanzoka jogando Cult of the Lamb - #1",
+                "url": "https://youtu.be/JvVqGkmQQMY",
+                "thumb": "https://img.youtube.com/vi/JvVqGkmQQMY/hqdefault.jpg"
+            }
+        ],
+        "Front-End": [
+            {
+                "title": "React JS // Dicionário do Programador",
+                "url": "https://youtu.be/NhUr8cwDiiM",
+                "thumb": "https://img.youtube.com/vi/NhUr8cwDiiM/hqdefault.jpg"
+            },
+            {
+                "title": "JavaScript (A linguagem mais AMADA e/ou ODIADA 😁) // Dicionário do Programador",
+                "url": "https://youtu.be/Ri76yOpLrNg",
+                "thumb": "https://img.youtube.com/vi/Ri76yOpLrNg/hqdefault.jpg"
+            },
+            {
+                "title": "A Forma Ideal de Projetos Web | Os 12 Fatores",
+                "url": "https://youtu.be/gpJgtED36U4",
+                "thumb": "https://img.youtube.com/vi/gpJgtED36U4/hqdefault.jpg"
+            },
+            {
+                "title": "Frontend no Metaverso - Este é o futuro do dev web? #Handshake",
+                "url": "https://youtu.be/IVBVcFwLWds",
+                "thumb": "https://img.youtube.com/vi/IVBVcFwLWds/hqdefault.jpg"
+            },
+            {
+                "title": "PyScript - Python no Front-End SEM Instalações",
+                "url": "https://youtu.be/VObJAShPZbk",
+                "thumb": "https://img.youtube.com/vi/VObJAShPZbk/hqdefault.jpg"
+            },
+            {
+                "title": "Front end e os novos desafios do ecossistema - Faladev #31",
+                "url": "https://youtu.be/HvBilIEuZlo",
+                "thumb": "https://img.youtube.com/vi/HvBilIEuZlo/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "Como APRENDER um FRAMEWORK Front End? Como eu aprendi Angular?",
+                "url": "https://youtu.be/mMMqMk2buzs",
+                "thumb": "https://img.youtube.com/vi/mMMqMk2buzs/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            }
+        ],
+        "Music": [
+            {
+                "title": "【Fantastico】ATARASHII GAKKO! LIVE 2022.01.30@恵比寿LIQUIDROOM",
+                "url": "https://youtu.be/gFxiFUwCTFE",
+                "thumb": "https://img.youtube.com/vi/gFxiFUwCTFE/hqdefault.jpg"
+            },
+            {
+                "title": "SIAMÉS 'The Wolf' [Official Animated Music Video]",
+                "url": "https://youtu.be/lX44CAz-JhU",
+                "thumb": "https://img.youtube.com/vi/lX44CAz-JhU/hqdefault.jpg"
+            },
+            {
+                "title": "Deceptacon",
+                "url": "https://youtu.be/wjNln9mXuTI",
+                "thumb": "https://img.youtube.com/vi/wjNln9mXuTI/hqdefault.jpg"
+            },
+            {
+                "title": "Mr.Kitty - Resurrection",
+                "url": "https://youtu.be/_dA85TulgmI",
+                "thumb": "https://img.youtube.com/vi/_dA85TulgmI/hqdefault.jpg"
+            },
+            {
+                "title": "C2C - Delta (Official Video)",
+                "url": "https://youtu.be/PZbkF-15ObM",
+                "thumb": "https://img.youtube.com/vi/PZbkF-15ObM/hqdefault.jpg"
+            },
+            {
+                "title": "Construção",
+                "url": "https://youtu.be/wBfVsucRe1w",
+                "thumb": "https://img.youtube.com/vi/wBfVsucRe1w/hqdefault.jpg"
+            },
+            {
+                "title": "Summertime",
+                "url": "https://youtu.be/dTlD4JURusw",
+                "thumb": "https://img.youtube.com/vi/dTlD4JURusw/hqdefault.jpg"
+            }
+        ]
+    }
+}
